@@ -1,0 +1,2 @@
+# <a href="https://www.amazon.com/Data-Structures-Algorithms-Java-6th-ebook/dp/B00JDRQF8C">Data Structures and Algorithms in Java, 6th Edition</a>
+Solutions to the exercises in the book by Michael T. Goodrich, Roberto Tamassia and Michael H. Goldwasser
